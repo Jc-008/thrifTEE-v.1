@@ -2,7 +2,7 @@
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # Welcome to thrifTEE!
-### Live Link: [thrifTEE](https://thriftee.herokuapp.com/)
+### Live Link: [thrifTEE](https://thriftee.fly.dev/)
 _thrifTEE_ is an e-commerce application that rejects throwaway fashion culture and gives beautiful apparel a second lease of life! Inspired by [ThredUp](https://www.thredup.com/), [Everlane](https://www.everlane.com/), and [Sephora](https://www.sephora.com/), users can browser, sort, and buy some of their favorite trending finds without breaking the bank.
 <p align="center">
   <a href="https://github.com/vmeduri1/thrifTEE/wiki"><strong>Explore the Wiki »</strong></a> 
@@ -32,7 +32,7 @@ _thrifTEE_ is an e-commerce application that rejects throwaway fashion culture a
 - [Chakra-UI](https://chakra-ui.com/)
 - CSS
 - Font Awesome
-- Hosted on Heroku and Cloudinary
+- Hosted on Fly.io and Cloudinary
 
 #### Backend
 - Python
